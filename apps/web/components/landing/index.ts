@@ -1,0 +1,9 @@
+export { LandingNav } from "./nav";
+export { HeroSection } from "./hero";
+export { HowItWorksSection } from "./how-it-works";
+export { FeaturesSection } from "./features";
+export { ShowcaseSection } from "./showcase";
+export { GamificationSection } from "./gamification";
+export { FAQSection } from "./faq";
+export { CTASection } from "./cta";
+export { Footer } from "./footer";

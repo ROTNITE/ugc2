@@ -305,7 +305,12 @@ const dictionaries: Record<Locale, Record<string, string>> = {
     "badge.streak_3": "3-day streak",
     "badge.streak_7": "7-day streak",
     "badge.level_5": "Level 5",
-    "badge.level_10": "Level 10"
+    "badge.level_10": "Level 10",
+    "landing.howItWorks": "How It Works",
+    "landing.features": "Features",
+    "landing.campaigns": "Campaigns",
+    "landing.faq": "FAQ",
+    "landing.getStarted": "Get Started"
   },
   ru: {
     "app.language": "Язык",
@@ -592,7 +597,12 @@ const dictionaries: Record<Locale, Record<string, string>> = {
     "badge.streak_3": "Streak 3 дня",
     "badge.streak_7": "Streak 7 дней",
     "badge.level_5": "Уровень 5",
-    "badge.level_10": "Уровень 10"
+    "badge.level_10": "Уровень 10",
+    "landing.howItWorks": "Как это работает",
+    "landing.features": "Возможности",
+    "landing.campaigns": "Кампании",
+    "landing.faq": "FAQ",
+    "landing.getStarted": "Начать"
   }
 };
 
