@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UGC Marketplace
 
 Infrastructure scaffold for a bilingual UGC influencer marketplace (RU/EN) connecting
@@ -77,3 +78,6 @@ The CI workflow runs the same baseline checks with `npm run ci`.
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for the development workflow, commit
 conventions, and review expectations.
+=======
+# ugc2
+>>>>>>> d842f1ebbbd0dd13c7cdaeb9718f45d1ac2f86f2
